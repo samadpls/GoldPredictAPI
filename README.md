@@ -51,6 +51,8 @@ This project implements a gold price prediction system using machine learning. T
         ```
 
     - Click on the "Execute" button to make a prediction.
+      ![demo](https://github.com/samadpls/GoldPredictAPI/assets/94792103/0876bea2-aa30-4a63-a0a7-0e75badc699f)
+
 
 4. Make predictions using curl:
 
